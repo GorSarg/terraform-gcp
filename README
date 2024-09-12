@@ -1,0 +1,10 @@
+create terraform.tfstate file and put there coresponding parameters
+
+project_id = "xxx"
+region     = "europe-west2"
+
+terraform init
+terraform plan
+terraform apply
+terraform init -migrate-state
+terraform destroy
