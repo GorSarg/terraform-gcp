@@ -27,6 +27,7 @@ override.tf.json
 .terraform/environment
 .terraform/terraform.tfstate
 .terraform/terraform.tfstate.*
+credentials/gcp.json
 
 # IDE specific files
 .idea/
